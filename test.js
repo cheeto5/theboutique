@@ -19,4 +19,4 @@ client.on('message', async message => {
   }
 });
 
-client.login('NzQ3ODQ1NzI2OTMwOTkzMTcz.GXA5zA.8YxptfmbnCWqS656WF8il6yEJpzOVclmsY0xVI');
+client.login('TOKEN');

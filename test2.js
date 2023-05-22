@@ -34,4 +34,4 @@ console.log(`Saving image: ${imageName}`);
 
 });
 
-Client.login('NzQ3ODQ1NzI2OTMwOTkzMTcz.GXA5zA.8YxptfmbnCWqS656WF8il6yEJpzOVclmsY0xVI');
+Client.login('TOKEN');
